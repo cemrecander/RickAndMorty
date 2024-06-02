@@ -9,6 +9,9 @@ This is a React Native application that displays episodes and characters from th
 - Search for characters by name.
 - Add characters to favorites and manage favorites list.
 
+## YouTube
+https://www.youtube.com/watch?v=zseo5w8woEc&t=4s
+
 ## Screenshots
 
 ![Screenshot 1](https://github.com/cemrecander/RickAndMorty/blob/main/src/assets/images/screenshot1.PNG)
