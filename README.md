@@ -11,9 +11,9 @@ This is a React Native application that displays episodes and characters from th
 
 ## Screenshots
 
-![Screenshot 1]([./src/assets/images/screenshot1.PNG](https://github.com/cemrecander/RickAndMorty/blob/main/src/assets/images/screenshot1.PNG))
-![Screenshot 2]([./src/assets/images/screenshot2.PNG](https://github.com/cemrecander/RickAndMorty/blob/main/src/assets/images/screenshot2.PNG))
-![Screenshot 3]([./src/assets/images/screenshot3.PNG](https://github.com/cemrecander/RickAndMorty/blob/main/src/assets/images/screenshot3.PNG))
+![Screenshot 1](https://github.com/cemrecander/RickAndMorty/blob/main/src/assets/images/screenshot1.PNG)
+![Screenshot 2](https://github.com/cemrecander/RickAndMorty/blob/main/src/assets/images/screenshot2.PNG)
+![Screenshot 3](https://github.com/cemrecander/RickAndMorty/blob/main/src/assets/images/screenshot3.PNG)
 
 ## Getting Started
 
